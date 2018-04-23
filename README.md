@@ -12,7 +12,7 @@ This link redirects user to select excel file page.
   ```
     cd redmine
     cd plugins/
-    git clone git://github.com/redminehappiestminds/redmine_issues_from_excel.git
+    git clone git://github.com/tnt108/redmine_issues_from_excel.git
   ```
  
 ## Configuration
